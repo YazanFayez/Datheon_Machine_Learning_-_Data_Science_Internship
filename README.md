@@ -1,2 +1,13 @@
-# Datheon_Machine_Learning_-_Data_Science_Internship
-A collection of Python-based machine learning classification pipelines and exploratory data analysis projects completed for the Datheon Internship.
+# Datheon Machine Learning & Data Science Internship
+This repository contains the completed task submissions for the Datheon Machine Learning and Data Science Internship. The provided Jupyter notebooks document structured workflows for data ingestion, exploratory data analysis (EDA), and the implementation of predictive machine learning models.
+
+Technologies & Frameworks
+Language: Python
+
+Data Manipulation: Pandas, NumPy
+
+Machine Learning: Scikit-learn
+
+Data Visualization: Matplotlib, Seaborn
+
+Development Environment: Google Colab
